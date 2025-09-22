@@ -12,4 +12,4 @@ PowerPoint slideshows
 The ASCII art I've made over the years
 
 # License
-As I have done with all my software, you **MAY NOT** use any of my art for corporate/closed-source purposes for obvious reasons. Any use in FOSS software is perfectly welcome, so long as you credit me. See the GPLv3 [LICENSE](LICENSE) file for more info.
+As I have done with all my software, you **MAY NOT** use any of my art for corporate/closed-source purposes for obvious reasons, and this includes for any profitable use. Any use in FOSS software is perfectly welcome, so long as you credit me. See the GPLv3 [LICENSE](LICENSE) file for more info.
